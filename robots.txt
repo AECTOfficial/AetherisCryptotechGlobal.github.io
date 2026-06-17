@@ -1,0 +1,17 @@
+# =====================================
+# AETCT Exchange (Aetheris Cryptotech Global)
+# =====================================
+
+# Website Title:
+# AETCT Exchange (Aetheris Cryptotech Global)
+
+# Description:
+# AETCT Exchange is a technology-focused digital asset platform dedicated to innovation,
+# security, transparency, and global financial connectivity.
+
+User-agent: *
+
+Allow: /
+
+# Sitemap
+Sitemap: https://aectofficial.github.io/sitemap.xml
